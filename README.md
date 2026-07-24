@@ -6,7 +6,6 @@ Welcome to My Github
 - 👯 Open to collaborating on Native Android, iOS, and Mobile Application Development projects.
 - 🤔 Looking for help with iOS performance optimization, SwiftUI best practices, and scalable mobile architectures.
 - 💬 Ask me about Swift, SwiftUI, Java, Android SDK, Firebase, RESTful APIs, MVVM Architecture, and Mobile App Development.
-- 📫 Reach me at: techyasnl@gmail.com
 - 😄 Pronouns: He/Him
 - 💭 My Motto: Build. Learn. Improve. Repeat.
 - ⚡ Fun fact: Every project I build teaches me something new, and I love applying those lessons to the next one..
